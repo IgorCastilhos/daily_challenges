@@ -20,3 +20,6 @@ You can clone this repository and run the files in your local machine.
 
 ## ✍️ Authors <a name = "authors"></a>
 - [@igor-castilhos](https://www.linkedin.com/in/igorcastilhos/)
+
+## 📝 License <a name = "license"></a>
+This project is under the MIT license. See the [LICENSE](LICENSE) for more information.
