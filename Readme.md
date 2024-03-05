@@ -1,9 +1,6 @@
-<div style="text-align:center">
+<div align="center">
     <h1>Daily Challenges</h1>
-</div>
-
-<div style="text-align:center">
-  <img src="tenor.gif" alt="animated" />
+    <img src="tenor.gif" alt="animated" />
 </div>
 
 ## 📝 Table of Contents
